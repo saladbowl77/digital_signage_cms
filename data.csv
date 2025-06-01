@@ -1,4 +1,4 @@
-"ファイル名","タイプ","filename"
-"テストの動画","動画","https://drive.google.com/uc?export=download&id=1jJFkIkum-rJh8_0dEa0_W1UL-JtaYDlC"
-"テストの画像","画像","https://drive.google.com/uc?export=download&id=1sJQBbfL5NOFD_jl1lD6s8vknCLNJGywU"
-"テストの埋め込み","埋め込み","https://www.youtube.com/embed/WCmp8AT9x8o"
+"ID (YYYYMMDD00)","ファイル名","タイプ","fileUrl"
+"25060100","テストの動画","動画","https://drive.google.com/uc?export=download&id=1jJFkIkum-rJh8_0dEa0_W1UL-JtaYDlC"
+"25060101","テストの画像","画像","https://drive.google.com/uc?export=download&id=1sJQBbfL5NOFD_jl1lD6s8vknCLNJGywU"
+"25060102","テストの埋め込み","埋め込み","https://www.youtube.com/embed/WCmp8AT9x8o"
